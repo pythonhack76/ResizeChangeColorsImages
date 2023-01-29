@@ -1,0 +1,21 @@
+{
+    "emp_details": [
+        {
+            "emp_name": "pluito",
+            "email": "pluto@gmail.com",
+            "job_profile": "dev"
+        },
+
+        {
+            "emp_name": "pippo",
+            "email": "pluto@gmail.com",
+            "job_profile": "dev"
+        },
+
+        {
+            "emp_name": "paperino",
+            "email": "pluto@gmail.com",
+            "job_profile": "dev"
+        }
+    ]
+}
